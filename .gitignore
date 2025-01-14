@@ -29,3 +29,5 @@ params_ipa
 examples
 testing/data
 *.diff
+
+/.idea
